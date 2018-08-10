@@ -1,7 +1,7 @@
 module.exports = nativeDescription: "العربية", englishDescription: "Arabic", translation:
 #  new_home:
-#    slogan: "The most engaging way to learn real code."
-#    classroom_edition: "Classroom Edition:"
+#    slogan: "الطريقة الأكثر تفاعلية لتعلم كود حقيقي"
+#    classroom_edition: ":إصدار الفصل الدراسي"
 #    learn_to_code: "Learn to code:"
 #    play_now: "Play Now"
 #    im_a_teacher: "I'm a Teacher"
